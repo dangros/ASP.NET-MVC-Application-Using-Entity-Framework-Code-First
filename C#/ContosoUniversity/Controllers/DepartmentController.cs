@@ -198,7 +198,7 @@ namespace ContosoUniversity.Controllers
         // POST: Department/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Delete(Department department)
+        public virtual async Task<ActionResult> Delete(Department department)
         {
             try
             {

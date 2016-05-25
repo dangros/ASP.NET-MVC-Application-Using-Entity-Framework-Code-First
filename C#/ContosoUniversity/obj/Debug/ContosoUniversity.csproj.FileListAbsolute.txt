@@ -29,7 +29,6 @@ S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversit
 S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
 S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Antlr3.Runtime.pdb
 S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Newtonsoft.Json.xml
-S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
 S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
@@ -39,3 +38,4 @@ S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversit
 S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
 S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+S:\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
